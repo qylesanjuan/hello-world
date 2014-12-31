@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-a short description
+tell a bit about myself
